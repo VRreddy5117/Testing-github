@@ -1,2 +1,1 @@
-# Testing-github
-Github testing
+# javaPractices
